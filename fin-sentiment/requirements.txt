@@ -1,0 +1,15 @@
+beautifulsoup4==4.12.3
+newspaper3k==0.2.8
+requests==2.32.3
+selenium==4.23.1
+spacy==3.7.5
+ftfy==6.2.0
+jsonlines==4.0.0
+datasketch==1.6.5
+scikit-learn==1.4.2
+pandas==2.2.2
+pyarrow==16.1.0
+yfinance==0.2.40
+transformers==4.43.3
+datasets==2.20.0
+torch>=2.1.0
