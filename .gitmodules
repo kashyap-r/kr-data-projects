@@ -1,0 +1,6 @@
+[submodule "financial-phrases-sentiment-analysis"]
+	path = financial-phrases-sentiment-analysis
+	url = https://github.com/kashyap-r/financial-phrases-sentiment-analysis.git
+[submodule "pr-data-analysis"]
+	path = pr-data-analysis
+	url = https://github.com/kashyap-r/pr-data-analysis.git
